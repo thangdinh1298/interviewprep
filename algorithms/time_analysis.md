@@ -26,6 +26,7 @@ Proof:
 T(1) = 1 > clog1 = 0. Which doesn't hold for (1).
 But since we're only required to prove that the condition T(n) <= cnlog(n) is true for all n >= n<sub>0</sub>, 
 we can choose a different base case.
+![Illustration of base case](basecase.png)
 
 We see that T(2) = 4 and T(3) = 5. If we choose c >= 2. Both T(2) and T(3) holds for our condition.
 Choosing them to be the base case for our inductive proof is sufficient because all n > 3 will resolve
