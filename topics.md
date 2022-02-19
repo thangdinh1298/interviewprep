@@ -8,3 +8,6 @@
 6. DP
 7. Divide and conquer
 8. Greedy
+
+##Data structures
+1. Union-find
