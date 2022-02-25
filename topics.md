@@ -5,9 +5,10 @@
 3. BFS
 4. DFS
 5. Backtracking
-6. DP (paradigm)
-7. Divide and conquer (paradigm)
-8. Greedy (paradigm)
+6. DP
+7. Divide and conquer
+8. Greedy
+9. Bitwise operations
 
 ## Data structures
 1. Union-find
